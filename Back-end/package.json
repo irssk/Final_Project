@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "oussema mansouri",
+    "scripts": {
+      "start": "node server.js"
+    },
+  "author": "irssk",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
